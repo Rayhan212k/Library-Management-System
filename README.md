@@ -1,6 +1,6 @@
 # Library Management System
 
-A simple **Library Management System** built with **Python (Tkinter & SQLite3)** for book tracking, issue/return management, and history logging.
+A software solution for managing library books and user activities. This system includes features for adding, deleting, issuing, and returning books, as well as viewing available books and tracking the history of book transactions. The project uses SQLite for database management to store information about books, their availability, and transaction history.
 
 ## Features:
 - 📚 **Add & Delete Books**
