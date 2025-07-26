@@ -11,5 +11,7 @@ A software solution for managing library books and user activities. This system 
 
 ## Installation
 1. Clone this repository:
+2. 2. Open the project in **Pycharm**.
+3. Run the project on an Pycharm interpreter.
 
 Developed by **Rayhan** - © 2025
